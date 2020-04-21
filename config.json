@@ -228,8 +228,9 @@
         },
         "botCommands": {
             "stats": "/stats",
-            "enable": "/enable",
-            "disable": "/disable"
+            "report": "/report",
+            "notify": "/notify",
+            "blocks": "/blocks"
         }
     },
     
