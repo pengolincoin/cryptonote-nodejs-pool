@@ -9,9 +9,15 @@
     "blockchainExplorer": "http://peng-explorer.s2ii.xyz/?hash={id}#blockchain_block",
     "transactionExplorer": "http://peng-explorer.s2ii.xyz/?hash={id}#blockchain_transaction",
     "daemonType": "bytecoin",
+    /*
     "cnAlgorithm": "cryptonight_pico",
     "cnVariant": 2,
     "cnBlobType": 1,
+    */
+    "cnAlgorithm": "argon2",
+    "cnVariant": 1,
+    "cnBlobType": 1,
+    
     "isRandomX": false,
     "includeHeight": false,
 
@@ -26,6 +32,9 @@
             "colors": true
         }
     },
+    
+    "hashingUtil": false,
+    
     "childPools": null,
     "poolServer": {
         "enabled": true,
