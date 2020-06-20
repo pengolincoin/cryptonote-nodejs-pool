@@ -1,5 +1,5 @@
 {
-    "poolHost": "peng-pool.s2ii.xyz",
+    "poolHost": "***Your_Pool_Host***",
 
     "coin": "PengolinCoin",
     "symbol": "PGO",
@@ -36,7 +36,7 @@
         "enabled": true,
         "mergedMining": false,
         "clusterForks": "auto",
-        "poolAddress": "***Your_Pool_Address***",
+        "poolAddress": "***Your_PGO_Pool_Wallet_Address***",
         "intAddressPrefix": "",
         "subAddressPrefix": "",
         "blockRefreshInterval": 1000,
@@ -137,7 +137,7 @@
         "port": 9989,
         "blocks": 30,
         "payments": 30,
-        "password": "***Your_Admin_Password***",
+        "password": "***Your_Pool_Admin_Password***",
         "ssl": false,
         "sslPort": 8119,
         "sslCert": "./cert.pem",
