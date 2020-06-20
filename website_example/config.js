@@ -1,5 +1,5 @@
 var api = "https://your_pool.com:8119"; //change address and API port
-let parentCoin = "PengolinCoin"
+let parentCoin = "";
 
 var email = "Your_EMAIL"; // change to your e-mail
 var telegram = "Your_TELEGRAM"; // change to your Telegram or leave blank
